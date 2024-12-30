@@ -1,6 +1,8 @@
 # diff
 Difference in differences (DID) estimation result Use diff With STATA 18
 
+https://www.youtube.com/watch?v=8WhRbNzyEyQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
